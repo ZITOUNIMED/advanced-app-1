@@ -1,0 +1,6 @@
+.messages {
+    margin-top: 5px;
+    width: 300px;
+    height: 80vh;
+    overflow-x: auto;
+}
